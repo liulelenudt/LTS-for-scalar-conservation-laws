@@ -26,3 +26,4 @@ extend - boundary conditions for the 1D advection test problems.
 
 # Example results
 
+![image](https://github.com/liulelenudt/LTS-for-scalar-conservation-laws/assets/148626828/53bbbd3a-5e99-45a6-86d3-cd8630ecedc5)
