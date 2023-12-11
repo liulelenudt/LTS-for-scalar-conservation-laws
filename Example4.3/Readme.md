@@ -33,4 +33,4 @@ Corresponding to Figure 3 in the manuscript:
 
 (3) pRK(5,4), $\Delta t=0.5$ corresponds to the pRK(5,4) scheme, and $\Delta t=0.5$, $\kappa\approx496.984$;
 
-(4) pRRK(5,4), $\Delta\hat{t}\approx0.009986$ corresponds to the pRRK(5,4) scheme: $\Delta t=0.5$, $\Delta\hat{t}\approx0.009986$, $\kappa\approx496.984$.
+(4) pRRK(5,4), $\Delta\hat{t}\approx0.009986$ corresponds to the pRRK(5,4) scheme, and $\Delta t=0.5$, $\Delta\hat{t}\approx0.009986$, $\kappa\approx496.984$.
