@@ -1,7 +1,7 @@
 # Solving the 1D advection equation
 
 # Description
-Solving the 1D advection equation involves utilizing the SSPRK(5,4) scheme with a forward Euler time step, the SSPRK(5,4) scheme with a large time step, the pRK(5,4) scheme, and the pRRK(5,4) scheme for the SSP problem.
+Solving the 1D advection equation involves utilizing the SSPRK(5,4) scheme with a forward Euler time step, the SSPRK(5,4) scheme with a large time step, the pRK(5,4) scheme, and the pRRK(5,4) scheme for the SSP property.
 
 # code
 Driver code in LinwaveMDriver1D.m
