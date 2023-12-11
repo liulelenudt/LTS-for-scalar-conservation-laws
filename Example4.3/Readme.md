@@ -1,4 +1,4 @@
-#Solving the 1D advection equation
+# Solving the 1D advection equation
 
 Driver code in Project_main.m
 
