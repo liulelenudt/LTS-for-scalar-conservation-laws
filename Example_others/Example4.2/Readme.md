@@ -1,1 +1,3 @@
-# The temporal accuracy test for the linear advection equation
+# The temporal accuracy test
+
+Corresponding to Table 4 in the manuscript.
