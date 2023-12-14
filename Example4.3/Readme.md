@@ -14,7 +14,7 @@ LinwaveM1D - integrate the 1D advection equation until using a monotone scheme.
 
 LinwaveMrhs1D - evaluate right hand side for the 1D advection equation using a monotone method.
 
-relax - evaluate ralaxation time step using the pRRK(5,4) scheme.
+relax - recalculate the last ralaxation time step using the pRRK(5,4) scheme.
 
 wavetest - initial conditions for the 1D advection equation.
 
